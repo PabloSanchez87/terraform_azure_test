@@ -80,7 +80,7 @@ Esto eliminará todos los recursos desplegados en Azure.
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, no dudes en abrir un issue o enviar un pull request.
 
 ## Seminario de Terraform y Azure
-- Infraestrutura como código en Azure con Terraform (19/08/2024)
+- Infraestrutura como código en Azure con Terraform (02/09/2024)
     - [Centro de Novas Tecnoloxías de Galicia (CNTG)](https://cntg.xunta.gal/web/cntg)
     - Descripción:  
         Terraform es una herramienta de IaC ("infraestructura como código") de código abierto para aprovisionar y gestionar una infraestructura en la nube. Codifica la infraestructura en archivos de configuración que describen el estado deseado para la topología. Terraform permite la gestión de cualquier infraestructura, como nubes públicas, nubes privadas y servicios SaaS.
